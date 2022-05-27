@@ -27,6 +27,7 @@
 <a href="https://keras.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="keras" width="40" height="40"/> </a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="keras" width="40" height="40"/> </a>
+<a href="https://librosa.org/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/18124827" alt="librosa" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="matlab" width="40" height="40"/> </a>
 
 <h4 align="left">Other Tools:</h4>
