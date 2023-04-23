@@ -1,6 +1,6 @@
 <h2 align="center">Data Scientist | Machine Learning Engineer | Researcher</h2>
 
-<h4 align="center">Working as Data Scientist and Machine Learning Engineer. PhD in Electrical Engineering (2016) from UFMG, Brazil, with Doctoral Stay of one year in Technische Universität Dresden, Germany. Master (2011) and bachelor (2008) in Electrical Engineering from UFMG, Brazil. In addition to Portuguese I speak English, German and Chinese.</h4>
+<h4 align="center">Currently working as Data Scientist and Senior IT Analyst in Businesses Consulting, and also Professor/Advisor of Data Science MBA. PhD in Electrical Engineering (2016) from UFMG, Brazil, with Doctoral Stay of one year in Technische Universität Dresden, Germany. Master (2011) and bachelor (2008) in Electrical Engineering from UFMG, Brazil. In addition to Portuguese I speak English, German and Chinese.</h4>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silasyl&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="silasyl"/></a> </p>
 
