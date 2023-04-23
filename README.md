@@ -4,8 +4,8 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silasyl&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="silasyl"/></a> </p>
 
-<h2 align="left">Companies:</h2>
-<p align="left"><a href='https://dg.energy/'target="_blank"><img src='https://i.postimg.cc/W3LsmmjS/digital-grid.png' border='0' alt='dg' width="200" height="70"/></a> 
+<h2 align="left">Company:</h2>
+<p align="left"><a href='https://peers.com.br/' target="_blank"><img src='https://media.licdn.com/dms/image/C4D0BAQGLik_Ohqs2Tw/company-logo_200_200/0/1671740349121?e=2147483647&v=beta&t=a1VkHH2N3bhRDbaBuTj_h5XCBL_BkQGNF-k2jDlnq_8' border='0' alt='peers'  width="100" height="100"/></a> 
 
 <h4 align="left">Developer Languages:</h4>
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
