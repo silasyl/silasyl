@@ -7,7 +7,7 @@ PhD in Electrical Engineering (2016) from UFMG, Brazil, with Doctoral Stay of on
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silasyl&theme=darkhub&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="silasyl"/></a> </p>
 
 <h2 align="left">Company:</h2>
-<p align="left"><a href='https://peers.com.br/' target="_blank"><img src='https://media.licdn.com/dms/image/C4D0BAQGLik_Ohqs2Tw/company-logo_200_200/0/1671740349121?e=2147483647&v=beta&t=a1VkHH2N3bhRDbaBuTj_h5XCBL_BkQGNF-k2jDlnq_8' border='0' alt='peers'  width="100" height="100"/></a> 
+<p align="left"><a href='https://www.turing.com/' target="_blank"><img src='https://media.licdn.com/dms/image/v2/D4D0BAQFwqcpc5dU5IA/company-logo_200_200/company-logo_200_200/0/1719851300671/turingcom_logo?e=2147483647&v=beta&t=NbN8yE_dm2O2J1MrFaXhjxwICJQDN2XZqjuIH7MF6mw' border='0' alt='peers'  width="100" height="100"/></a> 
 
 <center>
 <h3 align="left">Developer Languages:</h3>
