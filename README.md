@@ -1,6 +1,6 @@
-<h2 align="center">Sr. Data Scientist | Machine Learning Engineer</h2>
+<h2 align="center">AI Tech Lead</h2>
 
-<h4 align="center">Sr. Data Scientist with experience in delivering solutions using Machine Learning, Data Science and Visualization techniques for industries like insurance, public services, energy and retail. Also Professor and Advisor of Data Science MBA. Proficient in Python, Cypher and SQL, with expertise in Knowledge Graphs, Large Language Models, Time Series, Neural Networks and PySpark.<br><br>
+<h4 align="center">Technical Lead with experience in delivering solutions using Machine Learning, Data Science and Visualization techniques for industries like insurance, public services, energy and retail. Also Professor and Advisor of Data Science MBA. Proficient in Python, Cypher and SQL, with expertise in Knowledge Graphs, Large Language Models, Time Series, Neural Networks and PySpark.<br><br>
 
 PhD in Electrical Engineering (2016) from UFMG, Brazil, with Doctoral Stay of one year in Technische Universität Dresden, Germany. Master (2011) and bachelor (2008) in Electrical Engineering from UFMG, Brazil. In addition to Portuguese, I speak English, German and Chinese.</h4>
 
